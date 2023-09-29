@@ -1,0 +1,14 @@
+D:\Repo\Lab01_ASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net7.0\BusinessObjects.deps.json
+D:\Repo\Lab01_ASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net7.0\BusinessObjects.dll
+D:\Repo\Lab01_ASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net7.0\BusinessObjects.pdb
+D:\Repo\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net7.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\Repo\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net7.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net7.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Repo\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net7.0\BusinessObjects.AssemblyInfo.cs
+D:\Repo\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net7.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Repo\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net7.0\BusinessObjects.dll
+D:\Repo\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net7.0\refint\BusinessObjects.dll
+D:\Repo\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net7.0\BusinessObjects.pdb
+D:\Repo\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net7.0\ref\BusinessObjects.dll
+D:\Repo\Lab01_ASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net7.0\BusinessObjects.runtimeconfig.json
+D:\Repo\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net7.0\BusinessObjects.genruntimeconfig.cache

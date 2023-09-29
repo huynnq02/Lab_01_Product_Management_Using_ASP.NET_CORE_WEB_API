@@ -1,0 +1,12 @@
+D:\Repo\Lab01_ASP.NETCoreWebAPI\TestClassLibrary\bin\Debug\net7.0\TestClassLibrary.deps.json
+D:\Repo\Lab01_ASP.NETCoreWebAPI\TestClassLibrary\bin\Debug\net7.0\TestClassLibrary.dll
+D:\Repo\Lab01_ASP.NETCoreWebAPI\TestClassLibrary\bin\Debug\net7.0\TestClassLibrary.pdb
+D:\Repo\Lab01_ASP.NETCoreWebAPI\TestClassLibrary\obj\Debug\net7.0\TestClassLibrary.csproj.AssemblyReference.cache
+D:\Repo\Lab01_ASP.NETCoreWebAPI\TestClassLibrary\obj\Debug\net7.0\TestClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Lab01_ASP.NETCoreWebAPI\TestClassLibrary\obj\Debug\net7.0\TestClassLibrary.AssemblyInfoInputs.cache
+D:\Repo\Lab01_ASP.NETCoreWebAPI\TestClassLibrary\obj\Debug\net7.0\TestClassLibrary.AssemblyInfo.cs
+D:\Repo\Lab01_ASP.NETCoreWebAPI\TestClassLibrary\obj\Debug\net7.0\TestClassLibrary.csproj.CoreCompileInputs.cache
+D:\Repo\Lab01_ASP.NETCoreWebAPI\TestClassLibrary\obj\Debug\net7.0\TestClassLibrary.dll
+D:\Repo\Lab01_ASP.NETCoreWebAPI\TestClassLibrary\obj\Debug\net7.0\refint\TestClassLibrary.dll
+D:\Repo\Lab01_ASP.NETCoreWebAPI\TestClassLibrary\obj\Debug\net7.0\TestClassLibrary.pdb
+D:\Repo\Lab01_ASP.NETCoreWebAPI\TestClassLibrary\obj\Debug\net7.0\ref\TestClassLibrary.dll

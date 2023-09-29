@@ -1,0 +1,15 @@
+D:\Repo\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+D:\Repo\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net7.0\DataAccess.dll
+D:\Repo\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+D:\Repo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\Repo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\Repo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+D:\Repo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Repo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net7.0\DataAccess.dll
+D:\Repo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+D:\Repo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+D:\Repo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+D:\Repo\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net7.0\BusinessObjects.dll
+D:\Repo\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net7.0\BusinessObjects.pdb
+D:\Repo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
